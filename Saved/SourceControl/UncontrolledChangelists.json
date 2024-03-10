@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealEngine/Outcasts/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/Vendann/Documents/Unreal Projects/Cossacks/Content/Animations/SwordAndShieldSlash2_UE.uasset",
